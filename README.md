@@ -39,5 +39,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zxcs111&show_icons=true&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="zxcs111 languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zxcs111&show_icons=true&locale=en&theme=dracula&hide_border=false" height="150" alt="zxcs111 stats" />
 </div>
