@@ -1,7 +1,3 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=zxcs111&label=Profile%20views&color=0e75b6&style=flat" alt="zxcs111" /> 
-</p>
-
 <h1 align="center">A Web Developer & Designer 🧑‍💻</h1>
 
 <p align="left"> 
