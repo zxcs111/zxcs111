@@ -15,10 +15,12 @@
   <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html5 logo" />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="javascript logo" />
   <img src="https://img.shields.io/static/v1?message=Laravel&logo=laravel&label=&color=FF2D20&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="laravel logo" />
+  <img src="https://img.shields.io/static/v1?message=Blade&logo=laravel&label=&color=FF2D20&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="blade logo" />
   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo" />
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodejs logo" />
   <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="php logo" />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="react logo" />
+  
 </div>
 
 <br clear="both">
