@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo" />
   <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="php logo" />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="react logo" />
-  
+  <img src="https://img.shields.io/static/v1?message=C%23%20ASP.NET&logo=csharp&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="csharp asp.net logo" />
+  <img src="https://img.shields.io/static/v1?message=SSMS&logo=microsoftsqlserver&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ssms logo" />
 </div>
 
 <br clear="both">
