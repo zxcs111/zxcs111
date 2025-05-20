@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/static/v1?message=Laravel&logo=laravel&label=&color=FF2D20&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="laravel logo" />
   <img src="https://img.shields.io/static/v1?message=C%23%20ASP.NET&logo=csharp&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="csharp asp.net logo" />
   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo" />
-  <img src="https://img.shields.io/static/v1?message=SSMS&logo=microsoftsqlserver&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ssms logo" />
+  <img src="https://img.shields.io/static/v1?message=SSMS&logo=microsoftsqlserver&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="sql server management studio logo" />
   <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="figma logo" />
 </div>
 
